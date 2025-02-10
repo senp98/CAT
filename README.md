@@ -1,8 +1,15 @@
 # CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models
 
+![demo](figures/vggface2_dreambooth_demo.jpg)
+
+
 This repository contains the official implementation of the paper: [CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models]().
 
-![demo](figures/vggface2_dreambooth_demo.pdf)
+
+
+<div style="text-align: center;">
+  <img src="figures/cat_design.png" alt="demo" style="width: 50%;">
+</div>
 
 ## 1. Dependencies
 To install the dependencies, run the following:
@@ -161,3 +168,4 @@ python code/evaluate/eval_iqa.py \
 ```
 
 ## 6. Citation
+TBD
