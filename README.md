@@ -3,7 +3,7 @@
 ![demo](figures/vggface2_dreambooth_demo.jpg)
 
 
-This repository contains the official implementation of the paper: [CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models]().
+This repository contains the official implementation of the paper: [CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models](https://www.arxiv.org/abs/2502.07225).
 
 
 
@@ -168,4 +168,11 @@ python code/evaluate/eval_iqa.py \
 ```
 
 ## 6. Citation
-TBD
+```
+@article{peng2025cat,
+  title={CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models},
+  author={Peng, Sen and Wang, Mingyue and He, Jianfei and Yang, Jijia and Jia, Xiaohua},
+  journal={arXiv preprint arXiv:2502.07225},
+  year={2025}
+}
+```
