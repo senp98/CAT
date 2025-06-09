@@ -1,4 +1,4 @@
-# CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models
+# [ICML 25] CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models
 
 ![demo](figures/vggface2_dreambooth_demo.jpg)
 
